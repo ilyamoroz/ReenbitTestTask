@@ -7,6 +7,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactapp", "reactapp\reacta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "webapi\webapi.csproj", "{9925F26A-22BD-4F8B-849B-6F53C6E90FC2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UploadNotificationFunction", "UploadNotificationFunction\UploadNotificationFunction.csproj", "{87622DD1-F2E7-4AD6-BDB8-604F4D48BEEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{9925F26A-22BD-4F8B-849B-6F53C6E90FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9925F26A-22BD-4F8B-849B-6F53C6E90FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9925F26A-22BD-4F8B-849B-6F53C6E90FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87622DD1-F2E7-4AD6-BDB8-604F4D48BEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87622DD1-F2E7-4AD6-BDB8-604F4D48BEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87622DD1-F2E7-4AD6-BDB8-604F4D48BEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87622DD1-F2E7-4AD6-BDB8-604F4D48BEEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
