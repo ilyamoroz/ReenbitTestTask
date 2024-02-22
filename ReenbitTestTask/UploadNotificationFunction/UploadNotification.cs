@@ -31,7 +31,7 @@ namespace UploadNotificationFunction
             _storageConnectionString = _configuration["StorageConnectionString"];
             _containerName = _configuration["StorageContainerName"];
             _senderEmail = _configuration["SenderEmail"];
-            _senderEmail = _configuration["SenderPassword"];
+            _senderPassword = _configuration["SenderPassword"];
         }
 
 
